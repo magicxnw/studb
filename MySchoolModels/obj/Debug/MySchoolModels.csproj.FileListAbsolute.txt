@@ -1,0 +1,45 @@
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolModels\bin\Debug\MySchool.Models.dll
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolModels\bin\Debug\MySchool.Models.pdb
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolModels\obj\Debug\ResolveAssemblyReference.cache
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolModels\obj\Debug\MySchool.Models.dll
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolModels\obj\Debug\MySchool.Models.pdb
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolModels\bin\Debug\MySchool.Models.dll
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolModels\bin\Debug\MySchool.Models.pdb
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolModels\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolModels\obj\Debug\MySchool.Models.dll
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolModels\obj\Debug\MySchool.Models.pdb
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolModels\bin\Debug\MySchool.Models.dll
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolModels\bin\Debug\MySchool.Models.pdb
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolModels\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolModels\obj\Debug\MySchool.Models.dll
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolModels\obj\Debug\MySchool.Models.pdb
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolModels\bin\Debug\MySchool.Models.dll
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolModels\bin\Debug\MySchool.Models.pdb
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolModels\obj\Debug\ResolveAssemblyReference.cache
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolModels\obj\Debug\MySchool.Models.dll
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolModels\obj\Debug\MySchool.Models.pdb
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolModels\bin\Debug\MySchool.Models.dll
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolModels\bin\Debug\MySchool.Models.pdb
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolModels\obj\Debug\ResolveAssemblyReference.cache
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolModels\obj\Debug\MySchool.Models.dll
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolModels\obj\Debug\MySchool.Models.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolModels\bin\Debug\MySchool.Models.dll
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolModels\bin\Debug\MySchool.Models.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolModels\obj\Debug\ResolveAssemblyReference.cache
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolModels\obj\Debug\MySchool.Models.dll
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolModels\obj\Debug\MySchool.Models.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolModels\bin\Debug\MySchool.Models.dll
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolModels\bin\Debug\MySchool.Models.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolModels\obj\Debug\ResolveAssemblyReference.cache
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolModels\obj\Debug\MySchool.Models.dll
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolModels\obj\Debug\MySchool.Models.pdb
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolModels\bin\Debug\MySchool.Models.dll
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolModels\bin\Debug\MySchool.Models.pdb
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolModels\obj\Debug\MySchoolModels.csprojResolveAssemblyReference.cache
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolModels\obj\Debug\MySchool.Models.dll
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolModels\obj\Debug\MySchool.Models.pdb
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolModels\bin\Debug\MySchool.Models.dll
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolModels\bin\Debug\MySchool.Models.pdb
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolModels\obj\Debug\MySchool.Models.dll
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolModels\obj\Debug\MySchool.Models.pdb
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolModels\obj\Debug\MySchoolModels.csprojResolveAssemblyReference.cache

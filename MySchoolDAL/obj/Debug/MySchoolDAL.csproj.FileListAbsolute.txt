@@ -1,0 +1,63 @@
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolDAL\bin\Debug\MySchool.DAL.dll
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolDAL\bin\Debug\MySchool.DAL.pdb
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolDAL\bin\Debug\MySchool.Models.dll
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolDAL\bin\Debug\MySchool.Models.pdb
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolDAL\obj\Debug\MySchool.DAL.dll
+E:\课程开发\ACCP6.0\code\MySchool_S2\MySchool\MySchoolDAL\obj\Debug\MySchool.DAL.pdb
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolDAL\bin\Debug\MySchool.DAL.dll
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolDAL\bin\Debug\MySchool.DAL.pdb
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolDAL\bin\Debug\MySchool.Models.dll
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolDAL\bin\Debug\MySchool.Models.pdb
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolDAL\obj\Debug\MySchool.DAL.dll
+E:\ACCP6.0\3.课程设计\3.课程内容\S2\3.N Tier\案例代码\MySchool\MySchoolDAL\obj\Debug\MySchool.DAL.pdb
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolDAL\bin\Debug\MySchool.DAL.dll
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolDAL\bin\Debug\MySchool.DAL.pdb
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolDAL\bin\Debug\MySchool.Models.dll
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolDAL\bin\Debug\MySchool.Models.pdb
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolDAL\obj\Debug\MySchool.DAL.dll
+E:\ACCP\ACCP6.0\code\S2\MySchool\MySchool_0817\MySchoolDAL\obj\Debug\MySchool.DAL.pdb
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolDAL\bin\Debug\MySchool.DAL.dll
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolDAL\bin\Debug\MySchool.DAL.pdb
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolDAL\bin\Debug\MySchool.Models.dll
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolDAL\bin\Debug\MySchool.Models.pdb
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolDAL\obj\Debug\MySchool.DAL.dll
+E:\2009-8\project\ACCP6.0\N-tier\Chapter01\案例\MySchoolDAL\obj\Debug\MySchool.DAL.pdb
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolDAL\bin\Debug\MySchool.DAL.dll
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolDAL\bin\Debug\MySchool.DAL.pdb
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolDAL\bin\Debug\MySchool.Models.dll
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolDAL\bin\Debug\MySchool.Models.pdb
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolDAL\obj\Debug\MySchool.DAL.dll
+E:\2009-8\project\ACCP6.0\N-tier\案例\MySchoolDAL\obj\Debug\MySchool.DAL.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\bin\Debug\MySchool.DAL.dll
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\bin\Debug\MySchool.DAL.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\bin\Debug\MySchool.Models.dll
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\bin\Debug\MySchool.Models.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\obj\Debug\MySchool.DAL.dll
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\obj\Debug\MySchool.DAL.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolDAL\bin\Debug\MySchool.DAL.dll
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolDAL\bin\Debug\MySchool.DAL.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolDAL\bin\Debug\MySchool.Models.dll
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolDAL\bin\Debug\MySchool.Models.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolDAL\obj\Debug\MySchool.DAL.dll
+E:\work\课件开发\ACCP6.0\N-Tier\PPT\贯穿案例\学生信息管理系统\MySchoolDAL\obj\Debug\MySchool.DAL.pdb
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolDAL\bin\Debug\MySchool.DAL.dll
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolDAL\bin\Debug\MySchool.DAL.pdb
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolDAL\bin\Debug\MySchool.Models.dll
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolDAL\bin\Debug\MySchool.Models.pdb
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolDAL\obj\Debug\MySchoolDAL.csprojResolveAssemblyReference.cache
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolDAL\obj\Debug\MySchool.DAL.dll
+E:\ACCP7.0\N-Tiers\贯穿案例\参考代码\MySchoolDAL\obj\Debug\MySchool.DAL.pdb
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolDAL\bin\Debug\MySchool.DAL.dll
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolDAL\bin\Debug\MySchool.DAL.pdb
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolDAL\bin\Debug\MySchool.Models.dll
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolDAL\bin\Debug\MySchool.Models.pdb
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolDAL\obj\Debug\MySchoolDAL.csprojResolveAssemblyReference.cache
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolDAL\obj\Debug\MySchool.DAL.dll
+H:\一c#基础\项目实战12：三层架构之学生信息管理系统\MySchoolDAL\obj\Debug\MySchool.DAL.pdb

@@ -1,0 +1,7 @@
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\bin\Release\MySchool.DAL.dll
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\bin\Release\MySchool.DAL.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\bin\Release\MySchool.Models.dll
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\bin\Release\MySchool.Models.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\obj\Release\ResolveAssemblyReference.cache
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\obj\Release\MySchool.DAL.dll
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolDAL\obj\Release\MySchool.DAL.pdb

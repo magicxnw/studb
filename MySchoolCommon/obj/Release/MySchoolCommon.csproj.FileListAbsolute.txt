@@ -1,0 +1,5 @@
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolCommon\bin\Release\MySchoolCommon.dll
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolCommon\bin\Release\MySchoolCommon.pdb
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolCommon\obj\Release\ResolveAssemblyReference.cache
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolCommon\obj\Release\MySchoolCommon.dll
+E:\work\课件开发\ACCP6.0\N-Tier\SG\MyShool贯穿案例\MySchoolCommon\obj\Release\MySchoolCommon.pdb
